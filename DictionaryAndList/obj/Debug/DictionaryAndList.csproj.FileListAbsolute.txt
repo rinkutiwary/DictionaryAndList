@@ -1,0 +1,6 @@
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\bin\Debug\DictionaryAndList.exe.config
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\bin\Debug\DictionaryAndList.exe
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\bin\Debug\DictionaryAndList.pdb
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\obj\Debug\DictionaryAndList.csprojResolveAssemblyReference.cache
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\obj\Debug\DictionaryAndList.exe
+c:\users\harpreet\documents\visual studio 2015\Projects\DictionaryAndList\DictionaryAndList\obj\Debug\DictionaryAndList.pdb
